@@ -140,7 +140,7 @@ body {
   align-items: center;
 }
 /*work */
-#work {
+#products {
   background-color: var(--dark);
 }
 /*LOGIN PAGE NI */
@@ -177,14 +177,15 @@ body {
           <a class="nav-link" href="#products">Products</a>
         </li>
       </ul>
-    </div>
-  </div>
-  <a class="iconprof"  href="login"><lord-icon
+      <a class="iconprof"  href="login"><lord-icon
     src="https://cdn.lordicon.com/kthelypq.json"
     trigger="hover"
     colors="primary:#ffffff"
-    style="width:50px;height:50px;padding:-20px">
+    style="width:50px;height:50px;">
 </lord-icon> </lord-icon></a>
+
+    </div>
+  </div>
 </nav>
 @yield('content')
 

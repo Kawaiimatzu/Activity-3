@@ -99,7 +99,7 @@
 
 
 <!-- PROJECTS -->
-<section id="work">
+<section id="products">
     <div class="container">
         <div class="row align-items-center justify-content-between">
             <div class="col-lg-6">
@@ -116,7 +116,7 @@
               <div class="col-lg-4 col-sm-6">
                 <div class="project"></div>
                 <div class="image-wrapper">
-                  <img src="./public/cat1.png" alt="">
+                  <img src='cat1.png' alt="">
                 </div>
               </div>
             </div>
