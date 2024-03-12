@@ -175,6 +175,10 @@ body {
     </style>
 </head>
 <body>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 <nav class="navbar navbar-expand-lg navbar-dark">
   <div class="container">
     <a class="navbar-brand" href="home">KAWAII STORE</a>
