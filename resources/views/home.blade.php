@@ -98,7 +98,7 @@
 </section>
 
 
-<!-- PROJECTS -->
+<!-- PRODUCTS -->
 <section id="products">
     <div class="container">
         <div class="row align-items-center justify-content-between" data-aos="fade-up">
@@ -182,6 +182,9 @@
                     <div class="hr-line"></div>
                     <h1 class="display-4">About Us</h1>
                     <p class="mx-auto">"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
+                    <div class="col-auto">
+              <a href="#" class="btn btn-outline-light">View More</a>
+            </div>
                 </div>
             </div>
         </div>
@@ -201,6 +204,24 @@
                     <p class="mx-auto">"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
                 </div>
             </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-l6">
+            <div class="review">
+              <p>"Kawaii Store is my go-to for cute and trendy items. From accessories to stationery, each purchase feels like a little piece of happiness. The fast shipping and careful packaging make every order a treat. I can't get enough of their irresistibly charming collection!" - Alex M.</p>
+              <div class="row">
+                    <div class="col-auto">
+                      <div>
+                        <img src="profile1.jpg" alt="">
+                        <div>
+                          <h5>John Doe</h5>
+                          <small>Tagum City</small>
+                        </div>
+                      </div>
+                    </div>
+              </div>
+            </div>
+          </div>
         </div>
     </div>
 </section>

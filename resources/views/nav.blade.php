@@ -185,7 +185,10 @@ body {
     font-size: 18px;
     max-width: 450px;
 }
-
+/*testimonials*/
+#testimonials {
+  background-color: #f8f8f8;
+}
 
 
 
@@ -219,6 +222,9 @@ body {
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#contactus">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#testimonials">Testimonials</a>
         </li>
       </ul>
       <a class="iconprof"  href="login"><lord-icon
