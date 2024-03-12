@@ -7,7 +7,7 @@
 <section id="hero">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="1500s">
+          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="300">
             <h1 class="display-1">KAWAII STORE</h1>
             <p>Welcome to KAWAII STORE, where cuteness meets convenience! Our store is a haven for all things adorable, offering a delightful range of trendy and kawaii (Japanese for cute) products. From charming stationery to quirky accessories, KAWAII STORE is your go-to destination for adding a touch of sweetness to your everyday life. Explore our curated collection and let the cuteness take center stage in your world!</p>
             <a href="#" class="btn btn-outline-light">SHOP NOW</a>
@@ -20,7 +20,7 @@
 <section id="services">
     <div class="container">
         <div class="row">
-            <div class="col-12" data-aos="fade-up" data-oas-delay="1500s">
+            <div class="col-12" data-aos="fade-up" data-oas-delay="300">
                 <div class="intro text-center">
                     <div class="hr-line"></div>
                     <h1 class="display-4">Our Services</h1>
@@ -29,7 +29,7 @@
             </div>
         </div>
         <div class="row">
-          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="1500s">
+          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="300">
             <div class="service">
               <div class="icon">
               <lord-icon
@@ -45,7 +45,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="1500s">
+          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="300">
             <div class="service">
               <div class="icon">
               <lord-icon
@@ -60,7 +60,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="1500s">
+          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="300">
             <div class="service">
               <div class="icon">
               <lord-icon
@@ -76,7 +76,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="1500s">
+          <div class="col-lg-6" data-aos="fade-up" data-oas-delay="300">
             <div class="service">
               <div class="icon">
               <lord-icon
@@ -114,7 +114,7 @@
             </div>
             </div>
             <div class="row gy-4">
-              <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+              <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
                 <div class="project">
                 <div class="image-wrapper">
                   <img src='cat1.png' alt="">
@@ -123,7 +123,7 @@
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
                 <div class="project">
                 <div class="image-wrapper">
                   <img src='cat2.png' alt="">
@@ -132,7 +132,7 @@
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
                 <div class="project">
                 <div class="image-wrapper">
                   <img src='cat3.png' alt="">
@@ -141,7 +141,7 @@
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
                 <div class="project">
                 <div class="image-wrapper">
                   <img src='cat4.png' alt="">
@@ -150,7 +150,7 @@
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
                 <div class="project">
                 <div class="image-wrapper">
                   <img src='cat5.png' alt="">
@@ -159,7 +159,7 @@
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up">
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
                 <div class="project">
                 <div class="image-wrapper">
                   <img src='cat6.png' alt="">
