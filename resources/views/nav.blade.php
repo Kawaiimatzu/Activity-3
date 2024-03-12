@@ -8,6 +8,8 @@
     <title>KAWAII STORE</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.lordicon.com/lordicon.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
     <style>
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;700;800;900&display=swap');
 :root {
@@ -139,12 +141,23 @@ body {
   display: flex;
   align-items: center;
 }
+.link-arrow.link-dark {
+  color: var(--body);
+}
+.link-arrow.link-dark:hover {
+    color: white;
+}
 /*work */
 #products {
   background-color: var(--dark);
 }
-/*LOGIN PAGE NI */
-
+.project h3 {
+  color: white;
+  margin-top: 24px;
+}
+.project .image-wrapper {
+  overflow: hidden;
+}
 
 
 

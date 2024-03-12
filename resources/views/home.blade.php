@@ -112,14 +112,18 @@
             <div class="col-auto">
               <a href="#" class="btn btn-outline-light">View More</a>
             </div>
+            </div>
             <div class="row">
               <div class="col-lg-4 col-sm-6">
-                <div class="project"></div>
+                <div class="project">
                 <div class="image-wrapper">
                   <img src='cat1.png' alt="">
                 </div>
+                <h3>Cat Scratch Furniture Protector</h3>
+                <a href="#" class="link-arrow link-dark">Read More</a>
               </div>
             </div>
+        </div>
         </div>
 </section>
 
