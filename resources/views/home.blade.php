@@ -128,43 +128,43 @@
                 <div class="image-wrapper">
                   <img src='cat2.png' alt="">
                 </div>
-                <h3>Cat Scratch Furniture Protector</h3>
+                <h3>Shark Wearable Blanket</h3>
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="project">
                 <div class="image-wrapper">
-                  <img src='cat3.jpg' alt="">
+                  <img src='cat3.png' alt="">
                 </div>
-                <h3>Cat Scratch Furniture Protector</h3>
+                <h3>Wearable Turtle Shell Pillows - Green</h3>
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="project">
                 <div class="image-wrapper">
-                  <img src='cat1.png' alt="">
+                  <img src='cat4.png' alt="">
                 </div>
-                <h3>Cat Scratch Furniture Protector</h3>
+                <h3>Heatless Curling Rod Headband</h3>
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="project">
                 <div class="image-wrapper">
-                  <img src='cat1.png' alt="">
+                  <img src='cat5.png' alt="">
                 </div>
-                <h3>Cat Scratch Furniture Protector</h3>
+                <h3>Pop Push Bubble Fidget Toy</h3>
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="project">
                 <div class="image-wrapper">
-                  <img src='cat1.png' alt="">
+                  <img src='cat6.png' alt="">
                 </div>
-                <h3>Cat Scratch Furniture Protector</h3>
+                <h3>Vortex High Pressure Handheld Showerhead</h3>
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
