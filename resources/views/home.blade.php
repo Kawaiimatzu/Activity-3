@@ -123,6 +123,51 @@
                 <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat2.png' alt="">
+                </div>
+                <h3>Cat Scratch Furniture Protector</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat3.jpg' alt="">
+                </div>
+                <h3>Cat Scratch Furniture Protector</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat1.png' alt="">
+                </div>
+                <h3>Cat Scratch Furniture Protector</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat1.png' alt="">
+                </div>
+                <h3>Cat Scratch Furniture Protector</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat1.png' alt="">
+                </div>
+                <h3>Cat Scratch Furniture Protector</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
         </div>
         </div>
 </section>
