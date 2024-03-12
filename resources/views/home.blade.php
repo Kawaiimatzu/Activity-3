@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row gy-4">
           <div class="col-lg-6" data-aos="fade-up" data-oas-delay="300">
             <div class="service">
               <div class="icon">
@@ -36,7 +36,7 @@
     src="https://cdn.lordicon.com/xsqjakgm.json"
     trigger="loop"
     style="width:250px;height:250px">
-</lord-icon>
+   </lord-icon>
               </div>
               <div>
                 <h5>About</h5>
@@ -67,7 +67,7 @@
     src="https://cdn.lordicon.com/ajfmgpbq.json"
     trigger="loop"
     style="width:250px;height:250px">
-</lord-icon>
+  </lord-icon>
               </div>
               <div>
                 <h5>Sevices</h5>
@@ -84,7 +84,7 @@
     trigger="loop"
     delay="2000"
     style="width:250px;height:250px">
-</lord-icon>
+  </lord-icon>
               </div>
               <div>
                 <h5>Products</h5>
@@ -173,6 +173,37 @@
 </section>
 
 
+<!-- ABOUT US -->
+<section id="aboutus">
+    <div class="container">
+        <div class="row">
+            <div class="col-12" data-aos="fade-up" data-oas-delay="500">
+                <div class="intro text-center">
+                    <div class="hr-line"></div>
+                    <h1 class="display-4">About Us</h1>
+                    <p class="mx-auto">"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Testimonials -->
+<section id="testimonials">
+    <div class="container">
+        <div class="row">
+            <div class="col-12" data-aos="fade-up" data-oas-delay="500">
+                <div class="intro text-center">
+                    <div class="hr-line"></div>
+                    <h1 class="display-4">Testimonials</h1>
+                    <p class="mx-auto">"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 

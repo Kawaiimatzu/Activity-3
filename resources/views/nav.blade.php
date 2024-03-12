@@ -167,6 +167,24 @@ body {
 .project:hover .image-wrapper img {
   transform: scale(1);
 }
+/* About Us */
+#aboutus {
+        background: url('banner2.png');
+        min-height: 50vh;
+        background-position: center;
+        background-size: cover;
+        }
+#aboutus h1,
+#aboutus p {
+    color: var(--white);
+}
+#aboutus h1 {
+    font-weight: 900;
+}
+#aboutus p {
+    font-size: 18px;
+    max-width: 450px;
+}
 
 
 
@@ -191,16 +209,16 @@ body {
           <a class="nav-link active" aria-current="page" href="home">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#aboutus">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contactus">Contact</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link" href="#services">Services</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#products">Products</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#aboutus">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contactus">Contact</a>
         </li>
       </ul>
       <a class="iconprof"  href="login"><lord-icon
