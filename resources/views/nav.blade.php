@@ -141,10 +141,10 @@ body {
   display: flex;
   align-items: center;
 }
-.link-arrow.link-dark {
+.link-arrow.link-white {
   color: var(--body);
 }
-.link-arrow.link-dark:hover {
+.link-arrow.link-white:hover {
     color: white;
 }
 /*work */
@@ -157,6 +157,15 @@ body {
 }
 .project .image-wrapper {
   overflow: hidden;
+  border-radius: var(--border-radius);
+}
+.project .image-wrapper img {
+  border-radius: var(--border-radius);
+  transform: scale(1.1);
+  transition: all 0.4s ease;
+}
+.project:hover .image-wrapper img {
+  transform: scale(1);
 }
 
 

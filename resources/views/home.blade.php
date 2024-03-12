@@ -120,7 +120,7 @@
                   <img src='cat1.png' alt="">
                 </div>
                 <h3>Cat Scratch Furniture Protector</h3>
-                <a href="#" class="link-arrow link-dark">Read More</a>
+                <a href="#" class="link-arrow link-white">Read More</a>
               </div>
             </div>
         </div>
