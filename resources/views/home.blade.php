@@ -16,6 +16,80 @@
       </div>
 </section>
 
+<!-- PRODUCTS -->
+<section id="products">
+    <div class="container">
+        <div class="row align-items-center justify-content-between" data-aos="fade-up">
+            <div class="col-lg-6">
+                <div class="intro intro-dark">
+                    <div class="hr-line"></div>
+                    <h1 class="display-4">Best sellers</h1>
+                    <p>"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
+                </div>
+            </div>
+            <div class="col-auto">
+              <a href="#" class="btn btn-outline-light">View More</a>
+            </div>
+            </div>
+            <div class="row gy-4">
+              <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat1.png' alt="">
+                </div>
+                <h3>Cat Scratch Furniture Protector</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat2.png' alt="">
+                </div>
+                <h3>Shark Wearable Blanket</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat3.png' alt="">
+                </div>
+                <h3>Wearable Turtle Shell Pillows - Green</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat4.png' alt="">
+                </div>
+                <h3>Heatless Curling Rod Headband</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat5.png' alt="">
+                </div>
+                <h3>Pop Push Bubble Fidget Toy</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
+                <div class="project">
+                <div class="image-wrapper">
+                  <img src='cat6.png' alt="">
+                </div>
+                <h3>Vortex High Pressure Handheld Showerhead</h3>
+                <a href="#" class="link-arrow link-white">Read More</a>
+              </div>
+            </div>
+        </div>
+        </div>
+</section>
+
 <!-- SERVICES -->
 <section id="services">
     <div class="container">
@@ -98,79 +172,7 @@
 </section>
 
 
-<!-- PRODUCTS -->
-<section id="products">
-    <div class="container">
-        <div class="row align-items-center justify-content-between" data-aos="fade-up">
-            <div class="col-lg-6">
-                <div class="intro intro-dark">
-                    <div class="hr-line"></div>
-                    <h1 class="display-4">PRODUCTS</h1>
-                    <p>"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
-                </div>
-            </div>
-            <div class="col-auto">
-              <a href="#" class="btn btn-outline-light">View More</a>
-            </div>
-            </div>
-            <div class="row gy-4">
-              <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
-                <div class="project">
-                <div class="image-wrapper">
-                  <img src='cat1.png' alt="">
-                </div>
-                <h3>Cat Scratch Furniture Protector</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
-              </div>
-            </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
-                <div class="project">
-                <div class="image-wrapper">
-                  <img src='cat2.png' alt="">
-                </div>
-                <h3>Shark Wearable Blanket</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
-              </div>
-            </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
-                <div class="project">
-                <div class="image-wrapper">
-                  <img src='cat3.png' alt="">
-                </div>
-                <h3>Wearable Turtle Shell Pillows - Green</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
-              </div>
-            </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
-                <div class="project">
-                <div class="image-wrapper">
-                  <img src='cat4.png' alt="">
-                </div>
-                <h3>Heatless Curling Rod Headband</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
-              </div>
-            </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
-                <div class="project">
-                <div class="image-wrapper">
-                  <img src='cat5.png' alt="">
-                </div>
-                <h3>Pop Push Bubble Fidget Toy</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
-              </div>
-            </div>
-            <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
-                <div class="project">
-                <div class="image-wrapper">
-                  <img src='cat6.png' alt="">
-                </div>
-                <h3>Vortex High Pressure Handheld Showerhead</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
-              </div>
-            </div>
-        </div>
-        </div>
-</section>
+
 
 
 <!-- ABOUT US -->
@@ -214,7 +216,7 @@
                       <div>
                         <img src="profile1.jpg" alt="">
                         <div>
-                          <h5>John Doe</h5>
+                          <h5>Gabriel Bumaya</h5>
                           <small>Tagum City</small>
                         </div>
                       </div>
