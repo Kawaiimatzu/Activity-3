@@ -27,9 +27,6 @@
                     <p>"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
                 </div>
             </div>
-            <div class="col-auto">
-              <a href="#" class="btn btn-outline-light">View More</a>
-            </div>
             </div>
             <div class="row gy-4">
               <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
@@ -38,7 +35,7 @@
                   <img src='cat1.png' alt="">
                 </div>
                 <h3>Cat Scratch Furniture Protector</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
+                <a href="#" class="link-arrow link-white">$29.99</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
@@ -47,7 +44,7 @@
                   <img src='cat2.png' alt="">
                 </div>
                 <h3>Shark Wearable Blanket</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
+                <a href="#" class="link-arrow link-white">$45.99</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
@@ -56,7 +53,7 @@
                   <img src='cat3.png' alt="">
                 </div>
                 <h3>Wearable Turtle Shell Pillows - Green</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
+                <a href="#" class="link-arrow link-white">$63.99</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
@@ -65,7 +62,7 @@
                   <img src='cat4.png' alt="">
                 </div>
                 <h3>Heatless Curling Rod Headband</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
+                <a href="#" class="link-arrow link-white">$21.99</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
@@ -74,7 +71,7 @@
                   <img src='cat5.png' alt="">
                 </div>
                 <h3>Pop Push Bubble Fidget Toy</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
+                <a href="#" class="link-arrow link-white">$10.99</a>
               </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-oas-delay="500">
@@ -83,12 +80,32 @@
                   <img src='cat6.png' alt="">
                 </div>
                 <h3>Vortex High Pressure Handheld Showerhead</h3>
-                <a href="#" class="link-arrow link-white">Read More</a>
+                <a href="#" class="link-arrow link-white">$151.99</a>
               </div>
             </div>
         </div>
         </div>
 </section>
+
+<!-- ALL PRODUCTS -->
+<section id="allproducts">
+    <div class="container">
+        <div class="row">
+            <div class="col-12" data-aos="fade-up" data-oas-delay="500">
+                <div class="intro text-center">
+                <div class="allproduct">
+                    <h1 class="display-4">All Products</h1>
+                    <p class="mx-auto">"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
+                    <div class="col-auto">
+              <a href="#" class="btn btn-outline-light">View More</a>
+            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 <!-- SERVICES -->
 <section id="services">
@@ -181,7 +198,6 @@
         <div class="row">
             <div class="col-12" data-aos="fade-up" data-oas-delay="500">
                 <div class="intro text-center">
-                    <div class="hr-line"></div>
                     <h1 class="display-4">About Us</h1>
                     <p class="mx-auto">"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
                     <div class="col-auto">

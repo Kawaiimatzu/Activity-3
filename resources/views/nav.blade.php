@@ -189,6 +189,24 @@ body {
 #testimonials {
   background-color: #f8f8f8;
 }
+/* All Products */
+#allproducts {
+        background: url('banner3.png');
+        min-height: 50vh;
+        background-position: center;
+        background-size: cover;
+        }
+#allproducts h1,
+#allproducts p {
+    color: var(--white);
+}
+#allproducts h1 {
+    font-weight: 900;
+}
+#allproducts p {
+    font-size: 18px;
+    max-width: 450px;
+}
 
 
 
