@@ -95,9 +95,9 @@
                 <div class="intro text-center">
                 <div class="allproduct">
                     <h1 class="display-4">All Products</h1>
-                    <p class="mx-auto">"Discover a world of adorable treasures at our Kawaii Store, where we offer a curated selection of cute and charming products to add a touch of sweetness to your life."</p>
+                    <p class="mx-auto">Welcome to our Kawaii Store, where cuteness reigns supreme! Explore our delightful range of products, including plushies, stationery, accessories, and more. Transform your world into a haven of adorable charm with our carefully curated selection. Shop now and add a touch of kawaii to your life! 🌸🎀</p>
                     <div class="col-auto">
-              <a href="#" class="btn btn-outline-light">View More</a>
+              <a href="#" class="btn btn-outline-light">Discover</a>
             </div>
                 </div>
             </div>
@@ -187,9 +187,6 @@
         </div>
     </div>
 </section>
-
-
-
 
 
 <!-- ABOUT US -->
